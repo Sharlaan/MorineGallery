@@ -15,6 +15,7 @@ The backend is built with PHP and MySQL.
 Both frontend are powered with AngularJS.
 The public frontend is built with Angular-Material, and viewerJS*;
 while the private frontend is built with raw HTML5/CSS3, angular-draganddrop and the excellent DanialFarid's angular-file-upload.
+
 *TODO: integrate ViewerJS
 
 Admin-board features one simple editor to:
@@ -22,4 +23,5 @@ Admin-board features one simple editor to:
 - drop-in (or selects from your drive) an image file
 - specify the paint's dimensions
 - automatic error display (Angular's ngMessages)
+- 
 The admin can also dragover paints objects within or between groups.
