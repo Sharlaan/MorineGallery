@@ -23,5 +23,4 @@ Admin-board features one simple editor to:
 - drop-in (or selects from your drive) an image file
 - specify the paint's dimensions
 - automatic error display (Angular's ngMessages)
-- 
 The admin can also dragover paints objects within or between groups.
