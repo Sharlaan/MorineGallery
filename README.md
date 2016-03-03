@@ -3,9 +3,6 @@
 Live site : http://morine.artiste.free.fr
 Admin board : http://morine.artiste.free.fr/admin
 
-test site : http://drakensang.optimizer.free.fr/Morine
-test site : http://drakensang.optimizer.free.fr/Morine/admin
-
 
 This responsive gallery is dedicated to my mother's paintings. It consists in two sections:
 - a public one where visitors can read about the artist's techniques and inspirations, view her paintings, and drop comments.
