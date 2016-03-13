@@ -5,6 +5,8 @@ Live site : http://morine.artiste.free.fr
 Admin board : http://morine.artiste.free.fr/admin
 
 
+![alt tag](https://raw.githubusercontent.com/Sharlaan/MorineGallery/master/dragNdrop.png)
+
 This responsive gallery is dedicated to my mother's paintings. It consists in two sections:
 - a public one where visitors can read about the artist's techniques and inspirations, view her paintings, and drop comments.
 - a private one* where the administrator can manage the gallery's contents.
